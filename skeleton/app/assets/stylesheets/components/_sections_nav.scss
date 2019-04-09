@@ -1,0 +1,15 @@
+.section-nav{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.section-nav > ul > a {
+  padding: 0px 10px;
+  
+}
+.section-nav > ul > a:hover {
+  cursor: pointer;
+  text-decoration: underline black;
+  background-color: $light-gray;
+}
