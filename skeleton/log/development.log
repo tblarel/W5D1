@@ -4660,3 +4660,21 @@ Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5
 Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769259263" for ::1 at 2019-04-08 17:20:59 -0700
 Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769280609" for ::1 at 2019-04-08 17:21:20 -0700
 Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769280611" for ::1 at 2019-04-08 17:21:20 -0700
+Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769869940" for ::1 at 2019-04-08 17:31:09 -0700
+Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769869943" for ::1 at 2019-04-08 17:31:09 -0700
+Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769876702" for ::1 at 2019-04-08 17:31:16 -0700
+Started GET "/assets/application.self-037312552a35b19f5e99af6609c8d5d2bfcfb598d5204e7fffaf199fb29b7bf4.css?body=1&livereload=1554769876704" for ::1 at 2019-04-08 17:31:16 -0700
+Started GET "/" for ::1 at 2019-04-08 17:31:17 -0700
+Processing by StaticPagesController#index as HTML
+  Rendering static_pages/index.html.erb within layouts/application
+  Rendered shared/_main_nav.html.erb (0.5ms)
+  Rendered shared/_masthead.html.erb (0.6ms)
+  Rendered shared/_sections_nav.html.erb (0.6ms)
+  Rendered shared/_search_modal.html.erb (0.6ms)
+  Rendered shared/_main_content.html.erb (0.5ms)
+  Rendered static_pages/index.html.erb within layouts/application (47.8ms)
+Completed 200 OK in 179ms (Views: 164.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.self-b72522d523dcbffffd19dbcf936fe356b32d241f616ddbcd6a2a8b7695f707bb.css?body=1" for ::1 at 2019-04-08 17:31:18 -0700
+Started GET "/assets/AA_Times_Logo.png" for ::1 at 2019-04-08 17:31:18 -0700
